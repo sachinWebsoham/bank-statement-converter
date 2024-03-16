@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
     "exceljs": "^4.4.0",
     "express": "^4.18.2",
     "fresh-tabula-js": "^2.0.0",
