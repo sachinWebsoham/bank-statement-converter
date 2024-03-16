@@ -12,5 +12,5 @@ const PORT = process.env.PORT || 8000;
 app.use("/api/v1", convert);
 
 app.listen(PORT, () => {
-  console.log("Server is running on port 8000");
+  console.log("connecting port ",PORT);
 });
